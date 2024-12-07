@@ -1,0 +1,1 @@
+The provided solutions address the problem.  First, always verify that your security rules are correctly configured and allow the appropriate access for authenticated users.  Then, either carefully update or delete data that violates the rules.
